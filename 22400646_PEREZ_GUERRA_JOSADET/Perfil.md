@@ -40,6 +40,9 @@
 
 - Correo: joperezgu@ittepic.edu.mx
 
+## 🎥 Recomendación
+- Estado electrico
+
   
 
 - Cel: 3231215457
