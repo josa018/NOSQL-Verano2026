@@ -41,7 +41,7 @@
 - Correo: joperezgu@ittepic.edu.mx
 
 ## 🎥 Recomendación
-- Estado electrico
+- Pelicula: Estado electrico
 
   
 
