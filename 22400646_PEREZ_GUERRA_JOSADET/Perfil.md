@@ -23,16 +23,17 @@
 - Administracion de Redes
 
 - Bases de datos
+- Desarrollo de software
 
 
 
 ## 🛠️ Tecnologías que conozco
 
-- Java, JavaScript, Python
-
+- Java
+- JavaScript
+-  Python
+-  Html
 - MySQL
-
-
 
 
 
