@@ -39,10 +39,7 @@
 ## 📫 Cómo contactarme
 
 - Correo: joperezgu@ittepic.edu.mx
+- Cel: 3231215457
 
 ## 🎥 Recomendación
 - Pelicula: Estado electrico
-
-  
-
-- Cel: 3231215457
