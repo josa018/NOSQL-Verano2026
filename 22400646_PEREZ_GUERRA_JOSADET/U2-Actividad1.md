@@ -1,7 +1,10 @@
--- 1. Mostrar todos los libros publicados después del año 2022.
+##Consultas
+ 1. Mostrar todos los libros publicados después del año 2022.
 ´´´js
 db["Libros"].find({ "año": { $gt: 2022 } })
 ´´´
+
+
 -- 2. Mostrar los usuarios cuya edad sea mayor o igual a 21 años.
 db["Usuarios"].find({ "edad": { $gte: 21 } })
 
