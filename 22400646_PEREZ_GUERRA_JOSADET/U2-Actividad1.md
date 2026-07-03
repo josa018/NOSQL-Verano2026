@@ -1,7 +1,7 @@
 
 # Consultas
-# Pérez Guerra Josadet
-# 22400646
+- Pérez Guerra Josadet
+- 22400646
 
 ## 1. Mostrar todos los libros publicados después del año 2022.
 ```js
